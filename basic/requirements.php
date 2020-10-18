@@ -23,6 +23,8 @@ if (!isset($frameworkPath)) {
     foreach ($searchPaths as $path) {
         if (is_dir($path)) {
             $frameworkPath = $path;
+
+            
             break;
         }
     }
