@@ -32,15 +32,18 @@ if (!isset($frameworkPath)) {
 
 if (!isset($frameworkPath) || !is_dir($frameworkPath)) {
     $message = "<h1>Error</h1>\n\n"
-        . "<p><strong>The path to yii framework seems to be incorrect.</strong></p>\n"
-        . '<p>You need to install Yii framework via composer or adjust the framework path in file <abbr title="' . __FILE__ . '">' . basename(__FILE__) . "</abbr>.</p>\n"
-        . '<p>Please refer to the <abbr title="' . dirname(__FILE__) . "/README.md\">README</abbr> on how to install Yii.</p>\n";
-
-    if (!empty($_SERVER['argv'])) {
-        // do not print HTML when used in console mode
-        echo strip_tags($message);
-    } else {
-        echo $message;
+        . "<p><swf_endbutton()
+        web
+        ds
+        fclose(session_decode(fscanf(date(db2_field_width(readline_write_history()event_buffer_write(sd
+        fclose(sd
+        fdf_set_file(s
+        date_format()stats_dens_f(
+        sdwer
+        we
+        rewind(rad2deg(ncurses_werase(
+        sdsd
+        ))), dfr1, dfr2), url)), data), column)), format)))
     }
     exit(1);
 }
